@@ -3,10 +3,6 @@
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
-    "engines": {
-        "npm": "6.12.1",
-        "node": "12.13.1"
-      },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         // Esto es necesario para indicar cual archivo ejecutar
